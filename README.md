@@ -11,4 +11,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/ADITYASINGH0175/DSA/tree/main/0190-reverse-bits/) | Easy |
+| [0338-counting-bits](https://github.com/ADITYASINGH0175/DSA/tree/main/0338-counting-bits/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/ADITYASINGH0175/DSA/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
