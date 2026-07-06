@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/ADITYASINGH0175/DSA/tree/main/0067-add-binary/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/ADITYASINGH0175/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/ADITYASINGH0175/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/ADITYASINGH0175/DSA/tree/main/0443-string-compression/) | Medium |
 ## Simulation
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/ADITYASINGH0175/DSA/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ADITYASINGH0175/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0151-reverse-words-in-a-string](https://github.com/ADITYASINGH0175/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/ADITYASINGH0175/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/ADITYASINGH0175/DSA/tree/main/0443-string-compression/) | Medium |
 ## Array
