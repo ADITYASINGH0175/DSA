@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/ADITYASINGH0175/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0338-counting-bits](https://github.com/ADITYASINGH0175/DSA/tree/main/0338-counting-bits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -34,15 +35,25 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/ADITYASINGH0175/DSA/tree/main/0015-3sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/ADITYASINGH0175/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0344-reverse-string](https://github.com/ADITYASINGH0175/DSA/tree/main/0344-reverse-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/ADITYASINGH0175/DSA/tree/main/0015-3sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/ADITYASINGH0175/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/ADITYASINGH0175/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/ADITYASINGH0175/DSA/tree/main/0015-3sum/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/ADITYASINGH0175/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/ADITYASINGH0175/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/ADITYASINGH0175/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
