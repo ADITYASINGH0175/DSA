@@ -60,4 +60,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ADITYASINGH0175/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/ADITYASINGH0175/DSA/tree/main/0547-number-of-provinces/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/ADITYASINGH0175/DSA/tree/main/0547-number-of-provinces/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/ADITYASINGH0175/DSA/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/ADITYASINGH0175/DSA/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
