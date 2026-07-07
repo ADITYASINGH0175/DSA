@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/ADITYASINGH0175/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/ADITYASINGH0175/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/ADITYASINGH0175/DSA/tree/main/0443-string-compression/) | Medium |
+| [0686-repeated-string-match](https://github.com/ADITYASINGH0175/DSA/tree/main/0686-repeated-string-match/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,4 +77,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/ADITYASINGH0175/DSA/tree/main/0547-number-of-provinces/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0686-repeated-string-match](https://github.com/ADITYASINGH0175/DSA/tree/main/0686-repeated-string-match/) | Medium |
 <!---LeetCode Topics End-->
