@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/ADITYASINGH0175/DSA/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ADITYASINGH0175/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/ADITYASINGH0175/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/ADITYASINGH0175/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/ADITYASINGH0175/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/ADITYASINGH0175/DSA/tree/main/0443-string-compression/) | Medium |
@@ -81,4 +82,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0686-repeated-string-match](https://github.com/ADITYASINGH0175/DSA/tree/main/0686-repeated-string-match/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/ADITYASINGH0175/DSA/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
