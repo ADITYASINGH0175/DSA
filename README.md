@@ -18,10 +18,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ADITYASINGH0175/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0338-counting-bits](https://github.com/ADITYASINGH0175/DSA/tree/main/0338-counting-bits/) | Easy |
+| [0877-stone-game](https://github.com/ADITYASINGH0175/DSA/tree/main/0877-stone-game/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/ADITYASINGH0175/DSA/tree/main/0067-add-binary/) | Easy |
+| [0877-stone-game](https://github.com/ADITYASINGH0175/DSA/tree/main/0877-stone-game/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/ADITYASINGH0175/DSA/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ADITYASINGH0175/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0877-stone-game](https://github.com/ADITYASINGH0175/DSA/tree/main/0877-stone-game/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/ADITYASINGH0175/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -93,4 +96,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/ADITYASINGH0175/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/ADITYASINGH0175/DSA/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
