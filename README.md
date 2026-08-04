@@ -57,11 +57,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/ADITYASINGH0175/DSA/tree/main/0877-stone-game/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/ADITYASINGH0175/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1406-stone-game-iii](https://github.com/ADITYASINGH0175/DSA/tree/main/1406-stone-game-iii/) | Hard |
+| [3731-find-missing-elements](https://github.com/ADITYASINGH0175/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/ADITYASINGH0175/DSA/tree/main/0015-3sum/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/ADITYASINGH0175/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
+| [3731-find-missing-elements](https://github.com/ADITYASINGH0175/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,4 +114,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/ADITYASINGH0175/DSA/tree/main/1406-stone-game-iii/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3731-find-missing-elements](https://github.com/ADITYASINGH0175/DSA/tree/main/3731-find-missing-elements/) | Easy |
 <!---LeetCode Topics End-->
