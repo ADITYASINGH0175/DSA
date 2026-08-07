@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/ADITYASINGH0175/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0414-third-maximum-number](https://github.com/ADITYASINGH0175/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ADITYASINGH0175/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/ADITYASINGH0175/DSA/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0877-stone-game](https://github.com/ADITYASINGH0175/DSA/tree/main/0877-stone-game/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/ADITYASINGH0175/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1406-stone-game-iii](https://github.com/ADITYASINGH0175/DSA/tree/main/1406-stone-game-iii/) | Hard |
