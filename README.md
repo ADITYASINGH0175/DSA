@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/ADITYASINGH0175/DSA/tree/main/0338-counting-bits/) | Easy |
 | [0877-stone-game](https://github.com/ADITYASINGH0175/DSA/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/ADITYASINGH0175/DSA/tree/main/1406-stone-game-iii/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ADITYASINGH0175/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/ADITYASINGH0175/DSA/tree/main/0443-string-compression/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/ADITYASINGH0175/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0686-repeated-string-match](https://github.com/ADITYASINGH0175/DSA/tree/main/0686-repeated-string-match/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ADITYASINGH0175/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/ADITYASINGH0175/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/ADITYASINGH0175/DSA/tree/main/0443-string-compression/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/ADITYASINGH0175/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ADITYASINGH0175/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/ADITYASINGH0175/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ADITYASINGH0175/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
