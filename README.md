@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/ADITYASINGH0175/DSA/tree/main/0067-add-binary/) | Easy |
+| [0867-transpose-matrix](https://github.com/ADITYASINGH0175/DSA/tree/main/0867-transpose-matrix/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ADITYASINGH0175/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ADITYASINGH0175/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ADITYASINGH0175/DSA/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
+| [0867-transpose-matrix](https://github.com/ADITYASINGH0175/DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/ADITYASINGH0175/DSA/tree/main/0877-stone-game/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/ADITYASINGH0175/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1406-stone-game-iii](https://github.com/ADITYASINGH0175/DSA/tree/main/1406-stone-game-iii/) | Hard |
@@ -135,4 +137,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ADITYASINGH0175/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/ADITYASINGH0175/DSA/tree/main/0867-transpose-matrix/) | Easy |
 <!---LeetCode Topics End-->
