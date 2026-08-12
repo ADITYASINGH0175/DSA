@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/ADITYASINGH0175/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/ADITYASINGH0175/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/ADITYASINGH0175/DSA/tree/main/0443-string-compression/) | Medium |
+| [0455-assign-cookies](https://github.com/ADITYASINGH0175/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/ADITYASINGH0175/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ADITYASINGH0175/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Array
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/ADITYASINGH0175/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0414-third-maximum-number](https://github.com/ADITYASINGH0175/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ADITYASINGH0175/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0455-assign-cookies](https://github.com/ADITYASINGH0175/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ADITYASINGH0175/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ADITYASINGH0175/DSA/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0867-transpose-matrix](https://github.com/ADITYASINGH0175/DSA/tree/main/0867-transpose-matrix/) | Easy |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/ADITYASINGH0175/DSA/tree/main/0015-3sum/) | Medium |
 | [0414-third-maximum-number](https://github.com/ADITYASINGH0175/DSA/tree/main/0414-third-maximum-number/) | Easy |
+| [0455-assign-cookies](https://github.com/ADITYASINGH0175/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ADITYASINGH0175/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1051-height-checker](https://github.com/ADITYASINGH0175/DSA/tree/main/1051-height-checker/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/ADITYASINGH0175/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -117,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/ADITYASINGH0175/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/ADITYASINGH0175/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ADITYASINGH0175/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Game Theory
@@ -154,4 +158,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/ADITYASINGH0175/DSA/tree/main/1051-height-checker/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/ADITYASINGH0175/DSA/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
