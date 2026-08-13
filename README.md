@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0575-distribute-candies](https://github.com/ADITYASINGH0175/DSA/tree/main/0575-distribute-candies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ADITYASINGH0175/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ADITYASINGH0175/DSA/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
+| [0860-lemonade-change](https://github.com/ADITYASINGH0175/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0867-transpose-matrix](https://github.com/ADITYASINGH0175/DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/ADITYASINGH0175/DSA/tree/main/0877-stone-game/) | Medium |
 | [1051-height-checker](https://github.com/ADITYASINGH0175/DSA/tree/main/1051-height-checker/) | Easy |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/ADITYASINGH0175/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/ADITYASINGH0175/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0860-lemonade-change](https://github.com/ADITYASINGH0175/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ADITYASINGH0175/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
