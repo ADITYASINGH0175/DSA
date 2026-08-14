@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ADITYASINGH0175/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0055-jump-game](https://github.com/ADITYASINGH0175/DSA/tree/main/0055-jump-game/) | Medium |
 | [0338-counting-bits](https://github.com/ADITYASINGH0175/DSA/tree/main/0338-counting-bits/) | Easy |
 | [0877-stone-game](https://github.com/ADITYASINGH0175/DSA/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/ADITYASINGH0175/DSA/tree/main/1406-stone-game-iii/) | Hard |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/ADITYASINGH0175/DSA/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ADITYASINGH0175/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0055-jump-game](https://github.com/ADITYASINGH0175/DSA/tree/main/0055-jump-game/) | Medium |
 | [0414-third-maximum-number](https://github.com/ADITYASINGH0175/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ADITYASINGH0175/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/ADITYASINGH0175/DSA/tree/main/0455-assign-cookies/) | Easy |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/ADITYASINGH0175/DSA/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/ADITYASINGH0175/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/ADITYASINGH0175/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/ADITYASINGH0175/DSA/tree/main/0860-lemonade-change/) | Easy |
